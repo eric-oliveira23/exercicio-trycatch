@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\materia_nova\bin\Debug\materia_nova.exe.config
+C:\Users\Usuario\source\repos\materia_nova\bin\Debug\materia_nova.exe
+C:\Users\Usuario\source\repos\materia_nova\bin\Debug\materia_nova.pdb
+C:\Users\Usuario\source\repos\materia_nova\obj\Debug\materia_nova.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\materia_nova\obj\Debug\materia_nova.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\materia_nova\obj\Debug\materia_nova.exe
+C:\Users\Usuario\source\repos\materia_nova\obj\Debug\materia_nova.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "materia_nova", "materia_nova.csproj", "{5263FE66-34C2-4CFC-BFFB-0DF410AF8DAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5263FE66-34C2-4CFC-BFFB-0DF410AF8DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5263FE66-34C2-4CFC-BFFB-0DF410AF8DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5263FE66-34C2-4CFC-BFFB-0DF410AF8DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5263FE66-34C2-4CFC-BFFB-0DF410AF8DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98FDF557-972C-42C5-BE46-4635B7C95C54}
+	EndGlobalSection
+EndGlobal
